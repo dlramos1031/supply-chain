@@ -12,7 +12,7 @@ const Sidebar = () => {
             <NavLink to="/inventory" className="block p-2 rounded hover:bg-gray-600">Inventory</NavLink>
           </li>
           <li>
-            <NavLink to="/settings" className="block p-2 rounded hover:bg-gray-600">Settings</NavLink>
+            <NavLink to="/orders" className="block p-2 rounded hover:bg-gray-600">Orders</NavLink>
           </li>
           <li>
             <NavLink to="/profile" className="block p-2 rounded hover:bg-gray-600">Profile</NavLink>
